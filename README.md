@@ -13,7 +13,7 @@ The mixed Fujita freeness conjecture asks for the following global generation st
 >
 > is globally generated.
 
-The ample divisors may be chosen independently. For $N=0$, the statement gives the bound $\operatorname{Fu}(X)\le\dim X+1$ for the convex Fujita number.
+The ample divisors may be chosen independently. For $N=0$, the statement gives the bound $\mathrm{Fu}(X)\le n+1$ for the convex Fujita number.
 
 The manuscript also proposes the following effective bound for klt pairs.
 
